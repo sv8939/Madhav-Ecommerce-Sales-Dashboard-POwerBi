@@ -5,7 +5,8 @@ The objective of the Madhav Ecommerce Sales Dashboard project is to assist the o
 # Tools Used 
 Power BI
 # Preview
-![image](https://github.com/user-attachments/assets/4e32c01f-f1c5-4f9c-a024-eb01f27583e7)
+![image](https://github.com/user-attachments/assets/d8d3bf3a-bf42-49eb-ab05-e324b940eaf2)
+
 
 # Project Learnings 
 Throughout this project, we've gained valuable experience and skills, including: 
