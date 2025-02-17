@@ -4,6 +4,9 @@ This project aims to create an interactive dashboard to track and analyze online
 The objective of the Madhav Ecommerce Sales Dashboard project is to assist the owner of Madhav Store in tracking and analyzing their online sales across India. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends. 
 # Tools Used 
 Power BI
+# Preview
+![image](https://github.com/user-attachments/assets/4e32c01f-f1c5-4f9c-a024-eb01f27583e7)
+
 # Project Learnings 
 Throughout this project, we've gained valuable experience and skills, including: 
 • Creating interactive dashboards to track and analyze online store data. 
